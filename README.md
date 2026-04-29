@@ -3,4 +3,4 @@ If I forego a manual `dependabot.yml` file and thereby rely on auto-submission, 
 * https://docs.github.com/en/code-security/concepts/supply-chain-security/dependency-graph-data#dependabot-graph-jobs
 * https://docs.github.com/en/code-security/reference/supply-chain-security/dependency-graph-supported-package-ecosystems#supported-package-ecosystems
 
-I'm hoping to see both NPM's `express` and `shx` as well as GitHub Actions's `actions/checkout` in [this repo's SBOM](https://api.github.com/repos/kkgthb/gh-sbom-with-mixed-auto-submission/dependency-graph/sbom).
+I'm hoping to see both NPM's `express` and `shx` as well as GitHub Actions's `actions/checkout` in [this repo's SBOM](https://api.github.com/repos/kkgthb/gh-sbom-with-mixed-auto-submission/dependency-graph/sbom).  _(Though I'm wondering if I'll only see NPM.)_
